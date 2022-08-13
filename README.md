@@ -1,2 +1,2 @@
-# Java-Okul-Ortalama-Hesaplama
-Projeyi Tam Bittirince Yükleyeceğim.
+# Java Okul Ortalama Adlı Küçük Java İle Öğrenim Amaçlı Yaptığım bir kodlama 
+
